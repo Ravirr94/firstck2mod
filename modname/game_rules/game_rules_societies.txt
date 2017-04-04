@@ -1,0 +1,14 @@
+mod_society = {
+    name = "RULE_SOCIETIES"
+    group = "Mods"
+    option = {
+		name = on
+		text = "RULE_OPTION_ON"
+		desc = "RULE_SOCIETIES_ON_DESC"
+	}
+	option = {
+		name = off
+		text = "RULE_OPTION_OFF"
+		desc = "RULE_SOCIETIES_OFF_DESC"
+	}
+}
